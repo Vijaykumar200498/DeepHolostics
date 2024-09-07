@@ -1,2 +1,2 @@
-# DeepHolostics
-My APp
+# DeepHolistics
+My App
